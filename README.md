@@ -1,5 +1,13 @@
 ### Olá, eu sou o <a href="https://www.linkedin.com/in/felipedem/">Felipe Medeiros</a> Bacharel em Marketing/Publicidade e estudande de tecnologia.
 ##
+<div align="left">
+  <a href="https://github.com/felipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</div>
+
+
+##
 
 - 📫 entre em contato comigo: felipe11dmp@gmail.com.
 - 📖 Estudo Front-End e suas linguagens. Como Javascript, HMTL e CSS.
