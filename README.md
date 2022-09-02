@@ -1,4 +1,4 @@
-### Olá, eu sou o, <a href="https://www.linkedin.com/in/felipedem/">Felipe Medeiros</a> Bacharel em Marketing/Publicidade e estudande de tecnologia.
+### Olá, eu sou o <a href="https://www.linkedin.com/in/felipedem/">Felipe Medeiros</a> Bacharel em Marketing/Publicidade e estudande de tecnologia.
 ##
 
 - 📫 entre em contato comigo: felipe11dmp@gmail.com.
